@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ========================================================= -->
+  <!-- Cada <url> representa una página del sitio principal -->
+  <!-- Cada <image:image> representa una imagen alojada en static.grupojeza.com -->
+  <!-- ========================================================= -->
+
+  <!-- Pagina Home -->
+  <url>
+    <loc>https://grupojeza.com/</loc>
+    <image:image>
+      <image:loc>https://static.grupojeza.com/branding/Logo%20Grupo%20Jeza%20-%20Hoteler%C3%ADa%20y%20Turismo.png</image:loc>
+      <image:title>Logo Grupo Jeza - Hotelería y Turismo</image:title>
+      <image:caption>Grupo jeza es la empresa líder en viajes a nivel mundial. Encuentra en Grupo Jeza los mejores precios en Boletos aéreos, alojamientos, paquetes de viaje, actividades, alquiler de carros, cruceros y mucho más.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>http://static.grupojeza.com/imagenes/HERO%20I%20Grupo%20Jeza%20-%20Hoteler%C3%ADa%20y%20Turismo.jpg</image:loc>
+      <image:title>En Grupo Jeza diseña el viaje a tu medida con hasta 30% de descuento</image:title>
+      <image:caption>Grupo jeza es la empresa líder en viajes a nivel mundial. Encuentra en Grupo Jeza los mejores precios en Boletos aéreos, alojamientos, paquetes de viaje, actividades, alquiler de carros, cruceros y mucho más.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    
+  </url>
+
+  <!-- Pagina Paquetes -->
+
+  
+</urlset>
+
+
+
