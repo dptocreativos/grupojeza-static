@@ -55,6 +55,25 @@
     
   </url>
 
+<!-- Pagina Paquetes Australia -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/australia/</loc>
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Australia/Sidney%20-%20Australia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Australia al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Australia todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Australia como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Australia/Sidney%20-%20Australia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Sidney al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Sidney todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Sidney como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+  </url>
+
   
 </urlset>
 
