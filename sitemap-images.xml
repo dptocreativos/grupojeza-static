@@ -10,7 +10,7 @@
 
   <!-- Pagina Home -->
   <url>
-    <loc>https://grupojeza.com/</loc>
+    <loc>https://grupojeza.com</loc>
     <image:image>
       <image:loc>https://static.grupojeza.com/branding/Logo%20Grupo%20Jeza%20-%20Hoteler%C3%ADa%20y%20Turismo.png</image:loc>
       <image:title>Logo Grupo Jeza - Hotelería y Turismo</image:title>
@@ -31,7 +31,7 @@
 
   <!-- Pagina Paquetes Argentina -->
   <url>
-    <loc>https://grupojeza.com/paquetes/argentina/</loc>
+    <loc>https://grupojeza.com/paquetes/argentina</loc>
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
       <image:title>Paquetes de Viaje a Argentina al Mejor Precio | Grupo Jeza</image:title>
@@ -57,7 +57,7 @@
 
 <!-- Pagina Paquetes Australia -->
   <url>
-    <loc>https://grupojeza.com/paquetes/australia/</loc>
+    <loc>https://grupojeza.com/paquetes/australia</loc>
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Australia/Sidney%20-%20Australia.jpg</image:loc>
       <image:title>Paquetes de Viaje a Australia al Mejor Precio | Grupo Jeza</image:title>
@@ -74,6 +74,57 @@
     
   </url>
 
+
+
+<!-- Pagina Paquetes China -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/china</loc>
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/China/Pek%C3%ADn%20(Beijing)%20-%20China.jpg</image:loc>
+      <image:title>Paquetes de Viaje a China al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a China todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y explora la historia milenaria, los templos imperiales y los paisajes fascinantes que hacen de China un destino incomparable.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/China/Hangzhou%20-%20China.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Hangzhou al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Hangzhou todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Hangzhou como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/China/Lhasa%20(T%C3%ADbet)%20-%20China.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Lhasa (Tíbet) al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Lhasa (Tíbet) todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Lhasa (Tíbet) como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/China/Pek%C3%ADn%20(Beijing)%20-%20China.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Pekín (Beijing) al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Pekín (Beijing) todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Pekín (Beijing) como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/China/Sanya%20(Isla%20de%20Hainan)%20-%20China.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Sanya (Isla de Hainan) al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Pekín (Beijing) todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Sanya (Isla de Hainan) como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/China/Shangai%20-%20China.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Shangai al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Shangai todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Shangai como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+  </url>
+
+
+  
   
 </urlset>
 
