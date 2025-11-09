@@ -123,7 +123,73 @@
     
   </url>
 
+<!-- Pagina Paquetes Colombia -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/colombia</loc>
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Cartagena%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Colombia al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Paquetes de viaje a Colombia todo incluido, con vuelos, alojamiento y experiencias únicas. Descubre Cartagena, Medellín y Bogotá con Grupo Jeza, y vive el color, la música y la alegría de un país lleno de encanto y diversidad.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Barranquilla%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Barranquilla al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Barranquilla todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Barranquilla como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Bogot%C3%A1%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Bogotá al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Bogotá todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Bogotá como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
 
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Cartagena%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Cartagena al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Cartagena todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Cartagena como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/C%C3%BAcuta%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Cúcuta al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Cúcuta todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Cúcuta como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Isla%20San%20Andr%C3%A9s%20-%20Colombia.webp</image:loc>
+      <image:title>Paquetes de Viaje a Isla San Andrés al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Isla San Andrés todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Isla San Andrés como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Medell%C3%ADn%20-%20Colombia.jpeg</image:loc>
+      <image:title>Paquetes de Viaje a Medellín al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Medellín todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Medellín como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Pamplona%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Pamplona al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Pamplona todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Pamplona como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Santa%20Marta%20-%20Colombia.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Santa Marta al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Santa Marta todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Santa Marta como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+  </url>
   
   
 </urlset>
