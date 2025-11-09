@@ -25,10 +25,35 @@
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
-    
   </url>
 
   <!-- Pagina Paquetes -->
+
+  <!-- Pagina Paquetes Argentina -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/argentina/</loc>
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Argentina al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Argentina todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Buenos Aires al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Buenos Aíres todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Argentina/San%20Carlos%20de%20Bariloche%20-%20Argentina.jpg</image:loc>
+      <image:title>Paquetes de Viaje a San Carlos de Bariloche al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a San Carlos de Bariloche todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+  </url>
 
   
 </urlset>
