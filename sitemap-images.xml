@@ -3,276 +3,235 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- ========================================================= -->
-  <!-- Cada <url> representa una página del sitio principal -->
-  <!-- Cada <image:image> representa una imagen alojada en static.grupojeza.com -->
-  <!-- ========================================================= -->
-
-  <!-- Pagina Home -->
+  <!-- HOME -->
   <url>
     <loc>https://grupojeza.com</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/branding/Logo%20Grupo%20Jeza%20-%20Hoteler%C3%ADa%20y%20Turismo.png</image:loc>
       <image:title>Logo Grupo Jeza - Hotelería y Turismo</image:title>
-      <image:caption>Grupo jeza es la empresa líder en viajes a nivel mundial. Encuentra en Grupo Jeza los mejores precios en Boletos aéreos, alojamientos, paquetes de viaje, actividades, alquiler de carros, cruceros y mucho más.</image:caption>
+      <image:caption>Grupo Jeza, expertos en viajes a nivel mundial.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
-      <image:loc>http://static.grupojeza.com/imagenes/HERO%20I%20Grupo%20Jeza%20-%20Hoteler%C3%ADa%20y%20Turismo.jpg</image:loc>
-      <image:title>En Grupo Jeza diseña el viaje a tu medida con hasta 30% de descuento</image:title>
-      <image:caption>Grupo jeza es la empresa líder en viajes a nivel mundial. Encuentra en Grupo Jeza los mejores precios en Boletos aéreos, alojamientos, paquetes de viaje, actividades, alquiler de carros, cruceros y mucho más.</image:caption>
+      <image:loc>https://static.grupojeza.com/imagenes/HERO%20I%20Grupo%20Jeza%20-%20Hoteler%C3%ADa%20y%20Turismo.jpg</image:loc>
+      <image:title>Viajes al mejor precio con Grupo Jeza</image:title>
+      <image:caption>Viaja con los expertos en experiencias únicas.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-
   </url>
 
-  <!-- Pagina Paquetes -->
-
-  <!-- Pagina Paquetes Argentina -->
+  <!-- ARGENTINA -->
   <url>
     <loc>https://grupojeza.com/paquetes/argentina</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Argentina al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Argentina todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:title>Paquetes de Viaje a Argentina | Grupo Jeza</image:title>
+      <image:caption>Descubre Argentina con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Buenos Aires al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Buenos Aíres todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Buenos Aires | Grupo Jeza</image:title>
+      <image:caption>Explora Buenos Aires con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Argentina/San%20Carlos%20de%20Bariloche%20-%20Argentina.jpg</image:loc>
-      <image:title>Paquetes de Viaje a San Carlos de Bariloche al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a San Carlos de Bariloche todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Bariloche | Grupo Jeza</image:title>
+      <image:caption>Disfruta Bariloche con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
 
-<!-- Pagina Paquetes Australia -->
+  <!-- AUSTRALIA -->
   <url>
     <loc>https://grupojeza.com/paquetes/australia</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Australia/Sidney%20-%20Australia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Australia al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Australia todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Australia como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:title>Paquetes de Viaje a Australia | Grupo Jeza</image:title>
+      <image:caption>Explora Australia con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Australia/Sidney%20-%20Australia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Sidney al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Sidney todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Sidney como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Sidney | Grupo Jeza</image:title>
+      <image:caption>Descubre Sidney con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
 
-
-
-<!-- Pagina Paquetes China -->
+  <!-- CHINA -->
   <url>
     <loc>https://grupojeza.com/paquetes/china</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Pek%C3%ADn%20(Beijing)%20-%20China.jpg</image:loc>
-      <image:title>Paquetes de Viaje a China al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a China todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y explora la historia milenaria, los templos imperiales y los paisajes fascinantes que hacen de China un destino incomparable.</image:caption>
+      <image:title>Paquetes de Viaje a China | Grupo Jeza</image:title>
+      <image:caption>Descubre China con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Hangzhou%20-%20China.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Hangzhou al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Hangzhou todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Hangzhou como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Hangzhou | Grupo Jeza</image:title>
+      <image:caption>Explora Hangzhou con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Lhasa%20(T%C3%ADbet)%20-%20China.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Lhasa (Tíbet) al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Lhasa (Tíbet) todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Lhasa (Tíbet) como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Lhasa (Tíbet) | Grupo Jeza</image:title>
+      <image:caption>Viaja al Tíbet con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Pek%C3%ADn%20(Beijing)%20-%20China.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Pekín (Beijing) al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Pekín (Beijing) todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Pekín (Beijing) como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Pekín | Grupo Jeza</image:title>
+      <image:caption>Explora Pekín con expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Sanya%20(Isla%20de%20Hainan)%20-%20China.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Sanya (Isla de Hainan) al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Pekín (Beijing) todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Sanya (Isla de Hainan) como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Sanya (Isla de Hainan) | Grupo Jeza</image:title>
+      <image:caption>Explora Sanya con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Shangai%20-%20China.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Shangai al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Shangai todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Shangai como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Shangai | Grupo Jeza</image:title>
+      <image:caption>Vive Shangai con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
 
-<!-- Pagina Paquetes Colombia -->
+  <!-- COLOMBIA -->
   <url>
     <loc>https://grupojeza.com/paquetes/colombia</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Cartagena%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Colombia al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Paquetes de viaje a Colombia todo incluido, con vuelos, alojamiento y experiencias únicas. Descubre Cartagena, Medellín y Bogotá con Grupo Jeza, y vive el color, la música y la alegría de un país lleno de encanto y diversidad.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-    
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Colombia/Barranquilla%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Barranquilla al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Barranquilla todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Barranquilla como solo los mejores lo hacen con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-    
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Colombia/Bogot%C3%A1%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Bogotá al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Bogotá todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Bogotá como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Paquetes de Viaje a Colombia | Grupo Jeza</image:title>
+      <image:caption>Descubre Colombia con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Colombia/Cartagena%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Cartagena al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Cartagena todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Cartagena como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Barranquilla%20-%20Colombia.jpg</image:loc>
+      <image:title>Viajes a Barranquilla | Grupo Jeza</image:title>
+      <image:caption>Explora Barranquilla con los expertos en viajes.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Colombia/Bogot%C3%A1%20-%20Colombia.jpg</image:loc>
+      <image:title>Viajes a Bogotá | Grupo Jeza</image:title>
+      <image:caption>Descubre Bogotá con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/C%C3%BAcuta%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Cúcuta al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Cúcuta todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Cúcuta como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Cúcuta | Grupo Jeza</image:title>
+      <image:caption>Viaja a Cúcuta con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Isla%20San%20Andr%C3%A9s%20-%20Colombia.webp</image:loc>
-      <image:title>Paquetes de Viaje a Isla San Andrés al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Isla San Andrés todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Isla San Andrés como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a San Andrés | Grupo Jeza</image:title>
+      <image:caption>Explora San Andrés con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Medell%C3%ADn%20-%20Colombia.jpeg</image:loc>
-      <image:title>Paquetes de Viaje a Medellín al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Medellín todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Medellín como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Medellín | Grupo Jeza</image:title>
+      <image:caption>Vive Medellín con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Pamplona%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Pamplona al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Pamplona todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Pamplona como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Pamplona | Grupo Jeza</image:title>
+      <image:caption>Descubre Pamplona con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Santa%20Marta%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Santa Marta al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Santa Marta todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Santa Marta como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Santa Marta | Grupo Jeza</image:title>
+      <image:caption>Explora Santa Marta con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
 
-  <!-- Pagina Paquetes Costa Rica -->
+  <!-- COSTA RICA -->
   <url>
     <loc>https://grupojeza.com/paquetes/costa-rica</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Costa%20Rica/San%20Jos%C3%A9%20-%20Costa%20Rica.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Costa Rica al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Costa Rica todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Costa Rica como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:title>Paquetes de Viaje a Costa Rica | Grupo Jeza</image:title>
+      <image:caption>Descubre Costa Rica con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Costa%20Rica/San%20Jos%C3%A9%20-%20Costa%20Rica.jpg</image:loc>
-      <image:title>Paquetes de Viaje a San José al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a San José todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Argentina como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a San José | Grupo Jeza</image:title>
+      <image:caption>Explora San José con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
 
-<!-- Pagina Paquetes Egipto -->
+  <!-- EGIPTO -->
   <url>
     <loc>https://grupojeza.com/paquetes/egipto</loc>
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Egipto/Giza%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Egipto al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Egipto todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Egipto como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:title>Paquetes de Viaje a Egipto | Grupo Jeza</image:title>
+      <image:caption>Descubre Egipto con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
+
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Egipto/Alejandr%C3%ADa%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Alejandría al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Alejandría todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Alejandría como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Alejandría | Grupo Jeza</image:title>
+      <image:caption>Explora Alejandría con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Egipto/Dahab%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Dahab al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Dahab todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Dahab como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Dahab | Grupo Jeza</image:title>
+      <image:caption>Vive Dahab con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Egipto/El%20Cairo%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a El Cairo al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a El Cairo todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre El Cairo como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a El Cairo | Grupo Jeza</image:title>
+      <image:caption>Descubre El Cairo con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Egipto/Giza%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Giza al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Giza todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Giza como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:title>Viajes a Giza | Grupo Jeza</image:title>
+      <image:caption>Explora Giza con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Egipto/Luxor%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Luxor al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Luxor todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Luxor como solo los mejores lo hacen con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Egipto/Monte%20Sina%C3%AD%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Monte Sinaí al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Monte Sinaí todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Monte Sinaí como solo los mejores lo hacen con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Egipto/Sharm%20el-Sheij%20-%20Egipto.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Sharm el-Sheij al Mejor Precio | Grupo Jeza</image:title>
-      <image:caption>Encuentra los mejores paquetes de viaje a Sharm el-Sheij todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Sharm el-Sheij como solo los mejores lo hacen con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
   </url>
-  
-  
+
 </urlset>
-
-
-
