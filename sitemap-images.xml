@@ -185,5 +185,71 @@
       <image:license>https://grupojeza.com</image:license>
     </image:image>
   </url>
+
+
+    <!-- ESTADOS UNIDOS -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/estados-unidos</loc>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Chicago%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Paquetes de Viaje a Chicago | Grupo Jeza</image:title>
+      <image:caption>Disfruta Chicago con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Florida%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Florida con Grupo Jeza</image:title>
+      <image:caption>Viaja con Grupo Jeza a Florida y disfruta nuestras ofertas de viaje.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Haw%C3%A1i%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Viajes a Hawái | Grupo Jeza</image:title>
+      <image:caption>Descubre las islas de Hawái con los expertos en viajes.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Las%20Vegas%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Vive un viaje a Las Vegas | Grupo Jeza</image:title>
+      <image:caption>Encuentra tu paquete de viaje a Las Vegas con Grupo Jeza al mejor precio.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Los%20%C3%81ngeles%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Viaja a Los Ángeles | Grupo Jeza</image:title>
+      <image:caption>Vive una experiencia de lujo con tu paquete de viaje a Los Ángeles en Grupo Jeza al mejor precio.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Miami%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Paquetes de viaje a Miami | Grupo Jeza</image:title>
+      <image:caption>Encuentra hoy tu paquete de viaje a Miami con Grupo Jeza al mejor precio.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Nueva%20York%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Paquetes de viaje a Nueva York | Grupo Jeza</image:title>
+      <image:caption>Encuentra hoy tu paquete de viaje a Nueva York con Grupo Jeza al mejor precio.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Estados%20Unidos/Orlando%20-%20Estados%20Unidos.avif</image:loc>
+      <image:title>Paquetes de viaje todo incluido a Orlando | Grupo Jeza</image:title>
+      <image:caption>Encuentra hoy tu paquete de viaje ALL INCLUSIVE a Orlando con Grupo Jeza al mejor precio.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>    
+  </url>
+
+
+
+
   
 </urlset>
