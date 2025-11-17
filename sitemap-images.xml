@@ -209,6 +209,67 @@
     </image:image>
     
   </url>
+
+<!-- Pagina Paquetes Egipto -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/egipto</loc>
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Giza%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Egipto al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Egipto todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Egipto como solo los mejores lo hacen. Vive el encanto del tango en Buenos Aires, la majestuosidad de la Patagonia y los paisajes naturales más impresionantes de Sudamérica.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Alejandr%C3%ADa%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Alejandría al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Alejandría todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Alejandría como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Dahab%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Dahab al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Dahab todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Dahab como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/El%20Cairo%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a El Cairo al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a El Cairo todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre El Cairo como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Giza%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Giza al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Giza todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Giza como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Luxor%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Luxor al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Luxor todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Luxor como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Monte%20Sina%C3%AD%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Monte Sinaí al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Monte Sinaí todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Monte Sinaí como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Egipto/Sharm%20el-Sheij%20-%20Egipto.jpg</image:loc>
+      <image:title>Paquetes de Viaje a Sharm el-Sheij al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Encuentra los mejores paquetes de viaje a Sharm el-Sheij todo incluido, con vuelos, alojamiento y experiencias inolvidables. Viaja con los expertos en experiencias únicas y descubre Sharm el-Sheij como solo los mejores lo hacen con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+  </url>
   
   
 </urlset>
