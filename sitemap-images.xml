@@ -28,13 +28,6 @@
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Argentina | Grupo Jeza</image:title>
-      <image:caption>Descubre Argentina con los expertos en viajes.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Argentina/Buenos%20Aires%20-%20Argentina.jpg</image:loc>
       <image:title>Viajes a Buenos Aires | Grupo Jeza</image:title>
       <image:caption>Explora Buenos Aires con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
@@ -57,14 +50,7 @@
       <image:title>Paquetes de Viaje a Australia | Grupo Jeza</image:title>
       <image:caption>Explora Australia con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
-    </image:image>
 
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Australia/Sidney%20-%20Australia.jpg</image:loc>
-      <image:title>Viajes a Sidney | Grupo Jeza</image:title>
-      <image:caption>Descubre Sidney con los expertos en viajes.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
   </url>
 
   <!-- CHINA -->
@@ -86,27 +72,6 @@
     </image:image>
 
     <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/China/Lhasa%20(T%C3%ADbet)%20-%20China.jpg</image:loc>
-      <image:title>Viajes a Lhasa (Tíbet) | Grupo Jeza</image:title>
-      <image:caption>Viaja al Tíbet con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/China/Pek%C3%ADn%20(Beijing)%20-%20China.jpg</image:loc>
-      <image:title>Viajes a Pekín | Grupo Jeza</image:title>
-      <image:caption>Explora Pekín con expertos en viajes.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/China/Sanya%20(Isla%20de%20Hainan)%20-%20China.jpg</image:loc>
-      <image:title>Viajes a Sanya (Isla de Hainan) | Grupo Jeza</image:title>
-      <image:caption>Explora Sanya con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
       <image:loc>https://static.grupojeza.com/destinos/China/Shangai%20-%20China.jpg</image:loc>
       <image:title>Viajes a Shangai | Grupo Jeza</image:title>
       <image:caption>Vive Shangai con los expertos en viajes.</image:caption>
@@ -120,15 +85,8 @@
 
     <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Cartagena%20-%20Colombia.jpg</image:loc>
-      <image:title>Paquetes de Viaje a Colombia | Grupo Jeza</image:title>
-      <image:caption>Descubre Colombia con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Colombia/Barranquilla%20-%20Colombia.jpg</image:loc>
-      <image:title>Viajes a Barranquilla | Grupo Jeza</image:title>
-      <image:caption>Explora Barranquilla con los expertos en viajes.</image:caption>
+      <image:title>Paquetes de Viaje a Cartagena - Colombia | Grupo Jeza</image:title>
+      <image:caption>Encuentra en Grupo Jeza los mejores paquetes de viaje a Cartagena - Colombia.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
@@ -136,13 +94,6 @@
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Bogot%C3%A1%20-%20Colombia.jpg</image:loc>
       <image:title>Viajes a Bogotá | Grupo Jeza</image:title>
       <image:caption>Descubre Bogotá con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Colombia/C%C3%BAcuta%20-%20Colombia.jpg</image:loc>
-      <image:title>Viajes a Cúcuta | Grupo Jeza</image:title>
-      <image:caption>Viaja a Cúcuta con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
@@ -157,13 +108,6 @@
       <image:loc>https://static.grupojeza.com/destinos/Colombia/Medell%C3%ADn%20-%20Colombia.jpeg</image:loc>
       <image:title>Viajes a Medellín | Grupo Jeza</image:title>
       <image:caption>Vive Medellín con los expertos en viajes.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Colombia/Pamplona%20-%20Colombia.jpg</image:loc>
-      <image:title>Viajes a Pamplona | Grupo Jeza</image:title>
-      <image:caption>Descubre Pamplona con Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
@@ -186,14 +130,6 @@
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Costa%20Rica/San%20Jos%C3%A9%20-%20Costa%20Rica.jpg</image:loc>
-      <image:title>Viajes a San José | Grupo Jeza</image:title>
-      <image:caption>Explora San José con los expertos en viajes.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-  </url>
-
   <!-- EGIPTO -->
   <url>
     <loc>https://grupojeza.com/paquetes/egipto</loc>
@@ -213,25 +149,39 @@
     </image:image>
 
     <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Egipto/Dahab%20-%20Egipto.jpg</image:loc>
-      <image:title>Viajes a Dahab | Grupo Jeza</image:title>
-      <image:caption>Vive Dahab con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
-
-    <image:image>
       <image:loc>https://static.grupojeza.com/destinos/Egipto/El%20Cairo%20-%20Egipto.jpg</image:loc>
       <image:title>Viajes a El Cairo | Grupo Jeza</image:title>
       <image:caption>Descubre El Cairo con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
-    <image:image>
-      <image:loc>https://static.grupojeza.com/destinos/Egipto/Giza%20-%20Egipto.jpg</image:loc>
-      <image:title>Viajes a Giza | Grupo Jeza</image:title>
-      <image:caption>Explora Giza con Grupo Jeza.</image:caption>
-      <image:license>https://grupojeza.com</image:license>
-    </image:image>
   </url>
 
+  <!-- ESPAÑA -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/espana</loc>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Espa%C3%B1a/Andaluc%C3%ADa%20-%20Espa%C3%B1a.avif</image:loc>
+      <image:title>Paquetes de Viaje a España | Grupo Jeza</image:title>
+      <image:caption>Disfruta España con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Espa%C3%B1a/Madrid%20-%20Espa%C3%B1a.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Madrid</image:title>
+      <image:caption>Viaja a Madrid con Grupo Jeza y disfruta nuestras ofertas de viaje.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Espa%C3%B1a/Barcelona%20-%20Espa%C3%B1a.avif</image:loc>
+      <image:title>Viajes a Barcelona | Grupo Jeza</image:title>
+      <image:caption>Descubre Barcelona con los expertos en viajes.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+  
+  </url>
+  
 </urlset>
