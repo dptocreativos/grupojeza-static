@@ -131,6 +131,8 @@
       <image:license>https://grupojeza.com</image:license>
     </image:image>
 
+      </url>
+
   <!-- EGIPTO -->
   <url>
     <loc>https://grupojeza.com/paquetes/egipto</loc>
@@ -182,7 +184,6 @@
       <image:caption>Descubre Barcelona con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-  
   </url>
   
 </urlset>
