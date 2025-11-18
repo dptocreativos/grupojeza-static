@@ -248,7 +248,32 @@
     </image:image>    
   </url>
 
+<!-- GUATEMALA -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/guatemala</loc>
 
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Guatemala/Tikal%20-%20Guatemala.avif</image:loc>
+      <image:title>Paquetes de Viaje a Guatemala | Grupo Jeza</image:title>
+      <image:caption>Explora Guatemala y disfruta de TIKAL con Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Guatemala/Antigua%20Guatemala%20-%20Guatemala.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Antigua Guatemala con Grupo Jeza</image:title>
+      <image:caption>Viaja con Grupo Jeza a Guatemala y disfruta nuestras ofertas de viaje.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Guatemala/Lago%20de%20Atitl%C3%A1n%20-%20Guatemala.avif</image:loc>
+      <image:title>Viajes a Lago de Atitlán | Grupo Jeza</image:title>
+      <image:caption>Descubre Lago de Atitlán con los expertos en viajes.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+  </url>
 
 
   
