@@ -275,6 +275,52 @@
     
   </url>
 
+<!-- INDIA -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/india</loc>
 
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/India/Nueva%20Delhi%20%20-%20India.avif</image:loc>
+      <image:title>Paquetes de Viaje a India | Grupo Jeza</image:title>
+      <image:caption>Viaja a India con los mejores precios de Grupo Jeza, disfrutando experiencias auténticas entre templos, cultura milenaria y destinos imprescindibles.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/India/Agra%20-%20India.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Agra con Grupo Jeza</image:title>
+      <image:caption>Explora Agra con los mejores precios de Grupo Jeza, viviendo la magia del Taj Mahal, su historia mogol y experiencias culturales inolvidables.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/India/Jaipur%20-%20India.avif</image:loc>
+      <image:title>Paquetes de Viaje a Jaipur | Grupo Jeza</image:title>
+      <image:caption>Descubre Jaipur con los mejores precios de Grupo Jeza, recorriendo fuertes reales, palacios rosados y experiencias culturales únicas en la capital del Rajastán.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/India/Mumbai%20-%20India.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Mumbai en Grupo Jeza</image:title>
+      <image:caption>Vive Mumbai con los mejores precios de Grupo Jeza, explorando su energía urbana, su cultura cinematográfica y los rincones icónicos de la capital financiera de India.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/India/Nueva%20Delhi%20%20-%20India.avif</image:loc>
+      <image:title>Encuentra tu Paquete de Viaje a Nueva Delhi en Grupo Jeza</image:title>
+      <image:caption>Explora Nueva Delhi con los mejores precios de Grupo Jeza, descubriendo monumentos históricos, mercados vibrantes y la esencia cultural de la capital india.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/India/Udaipur%20-%20India.avif</image:loc>
+      <image:title>Paquetes de Viaje a Udaipur | Grupo Jeza</image:title>
+      <image:caption>Disfruta Udaipur con los mejores precios de Grupo Jeza, entre palacios flotantes, lagos majestuosos y la elegancia cultural del Rajastán.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+    
+  </url>
   
 </urlset>
