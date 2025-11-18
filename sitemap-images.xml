@@ -272,7 +272,6 @@
       <image:caption>Descubre Lago de Atitlán con los expertos en viajes.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
 
 <!-- INDIA -->
@@ -320,7 +319,41 @@
       <image:caption>Disfruta Udaipur con los mejores precios de Grupo Jeza, entre palacios flotantes, lagos majestuosos y la elegancia cultural del Rajastán.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
-    
   </url>
+
+<!-- ITALIA -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/italia</loc>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Italia/Roma%20-%20Italia.avif</image:loc>
+      <image:title>Paquetes de Viaje a Italia al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Vive Italia con los mejores precios de Grupo Jeza, recorriendo ciudades históricas, arte incomparable, paisajes icónicos y gastronomía auténtica.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Italia/Pisa%20-%20Italia.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Pisa</image:title>
+      <image:caption>Explora Pisa con los mejores precios de Grupo Jeza, disfrutando su icónica torre inclinada, su arquitectura histórica y experiencias auténticas en Toscana.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Italia/Venecia%20-%20Italia.avif</image:loc>
+      <image:title>Viajes a Venecia | Grupo Jeza</image:title>
+      <image:caption>Descubre Descubre Venecia con los mejores precios de Grupo Jeza, navegando entre sus canales, palacios históricos y la magia inconfundible de la ciudad flotante.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Italia/Verona%20-%20Italia.avif</image:loc>
+      <image:title>Paquetes de Viaje a Verona - Italia | Grupo Jeza</image:title>
+      <image:caption>Vive Verona con los mejores precios de Grupo Jeza, explorando su encanto medieval, escenarios románticos y los rincones más emblemáticos del norte de Italia.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+  </url>
+
+  
   
 </urlset>
