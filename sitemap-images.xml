@@ -463,6 +463,67 @@
 
 </url>
 
+<!-- PANAMÁ -->
+<url>
+  <loc>https://grupojeza.com/paquetes/panama</loc>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Bocas%20del%20Toro%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Paquetes de Viaje a Bocas del Toro | Grupo Jeza</image:title>
+    <image:caption>Explora Bocas del Toro con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Isla%20Contadora%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Viajes a Isla Contadora | Grupo Jeza</image:title>
+    <image:caption>Descubre Isla Contadora con tarifas exclusivas.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Isla%20Grande%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Paquetes de Viaje a Isla Grande | Grupo Jeza</image:title>
+    <image:caption>Disfruta Isla Grande con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Isla%20Iguana%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Viajes a Isla Iguana | Grupo Jeza</image:title>
+    <image:caption>Explora Isla Iguana con ofertas especiales.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Playa%20Blanca%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Paquetes de Viaje a Playa Blanca | Grupo Jeza</image:title>
+    <image:caption>Descubre Playa Blanca con los mejores precios.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Playa%20Venao%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Viajes a Playa Venao | Grupo Jeza</image:title>
+    <image:caption>Explora Playa Venao con tarifas especiales de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/San%20Blas%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Paquetes de Viaje a San Blas (Guna Yala) | Grupo Jeza</image:title>
+    <image:caption>Vive San Blas con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Panam%C3%A1/Santa%20Catalina%20-%20Panam%C3%A1.avif</image:loc>
+    <image:title>Viajes a Santa Catalina | Grupo Jeza</image:title>
+    <image:caption>Descubre Santa Catalina con ofertas exclusivas.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+</url>
 
   
 </urlset>
