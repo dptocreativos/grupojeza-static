@@ -385,6 +385,20 @@
       <image:caption>Vive Nara con los mejores precios de Grupo Jeza.</image:caption>
       <image:license>https://grupojeza.com</image:license>
     </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Jap%C3%B3n/Tokio%20-%20Jap%C3%B3n.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Tokio</image:title>
+      <image:caption>Explora Tokio con los mejores precios de Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Jap%C3%B3n/Osaka%20-%20Jap%C3%B3n.avif</image:loc>
+      <image:title>Viajes a Osaka | Grupo Jeza</image:title>
+      <image:caption>Descubre Osaka con los mejores precios de Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
   </url>
   
 </urlset>
