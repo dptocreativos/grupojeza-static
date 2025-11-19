@@ -354,6 +354,37 @@
     </image:image>
   </url>
 
-  
+<!-- JAPÓN -->
+  <url>
+    <loc>https://grupojeza.com/paquetes/italia</loc>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Jap%C3%B3n/Kioto%20-%20Jap%C3%B3n.avif</image:loc>
+      <image:title>Paquetes de Viaje a Japón al Mejor Precio | Grupo Jeza</image:title>
+      <image:caption>Vive Japón con los mejores precios de Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Jap%C3%B3n/Hakone%20-%20Jap%C3%B3n.avif</image:loc>
+      <image:title>Los Mejores Paquetes de Viaje a Hakone</image:title>
+      <image:caption>Explora Hakone con los mejores precios de Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Jap%C3%B3n/Kioto%20-%20Jap%C3%B3n.avif</image:loc>
+      <image:title>Viajes a Kioto | Grupo Jeza</image:title>
+      <image:caption>Descubre Kioto con los mejores precios de Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://static.grupojeza.com/destinos/Jap%C3%B3n/Nara%20-%20Jap%C3%B3n.avif</image:loc>
+      <image:title>Paquetes de Viaje a Nara - Japón | Grupo Jeza</image:title>
+      <image:caption>Vive Nara con los mejores precios de Grupo Jeza.</image:caption>
+      <image:license>https://grupojeza.com</image:license>
+    </image:image>
+  </url>
   
 </urlset>
