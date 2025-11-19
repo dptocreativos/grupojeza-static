@@ -400,5 +400,69 @@
       <image:license>https://grupojeza.com</image:license>
     </image:image>
   </url>
+
+<!-- MÉXICO -->
+<url>
+  <loc>https://grupojeza.com/paquetes/mexico</loc>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Canc%C3%BAn%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Paquetes de Viaje a Cancún | Grupo Jeza</image:title>
+    <image:caption>Explora Cancún con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Ciudad%20de%20M%C3%A9xico%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Viajes a Ciudad de México | Grupo Jeza</image:title>
+    <image:caption>Descubre la Ciudad de México al mejor precio.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Guadalajara%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Paquetes de Viaje a Guadalajara | Grupo Jeza</image:title>
+    <image:caption>Vive Guadalajara con ofertas exclusivas.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Los%20Cabos%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Viajes a Los Cabos | Grupo Jeza</image:title>
+    <image:caption>Descubre Los Cabos con los mejores precios.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Playa%20del%20Carmen%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Paquetes de Viaje a Playa del Carmen | Grupo Jeza</image:title>
+    <image:caption>Explora Playa del Carmen con las mejores ofertas.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Puerto%20Vallarta%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Viajes a Puerto Vallarta | Grupo Jeza</image:title>
+    <image:caption>Disfruta Puerto Vallarta al mejor precio.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Tulum%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Paquetes de Viaje a Tulum | Grupo Jeza</image:title>
+    <image:caption>Conoce Tulum con precios especiales.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Mexico/Yucat%C3%A1n%20-%20M%C3%A9xico.avif</image:loc>
+    <image:title>Viajes a Yucatán | Grupo Jeza</image:title>
+    <image:caption>Descubre Yucatán con tarifas especiales de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+</url>
+
+
   
 </urlset>
