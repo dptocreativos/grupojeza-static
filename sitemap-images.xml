@@ -565,5 +565,53 @@
   </image:image>
 </url>
 
+<!-- RUSIA -->
+<url>
+  <loc>https://grupojeza.com/paquetes/rusia</loc>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Rusia/Kazan%20-%20Rusia.avif</image:loc>
+    <image:title>Paquetes de Viaje a Kazán | Grupo Jeza</image:title>
+    <image:caption>Descubre Kazán con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Rusia/Mosc%C3%BA%20-%20Rusia.avif</image:loc>
+    <image:title>Viajes a Moscú | Grupo Jeza</image:title>
+    <image:caption>Explora Moscú con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Rusia/Nizhni%20N%C3%B3vgorod%20-%20Rusia.avif</image:loc>
+    <image:title>Paquetes de Viaje a Nizhni Nóvgorod | Grupo Jeza</image:title>
+    <image:caption>Vive Nizhni Nóvgorod con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Rusia/San%20Petersburgo%20-%20Rusia.avif</image:loc>
+    <image:title>Viajes a San Petersburgo | Grupo Jeza</image:title>
+    <image:caption>Descubre San Petersburgo con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Rusia/Sochi%20-%20Rusia.avif</image:loc>
+    <image:title>Paquetes de Viaje a Sochi | Grupo Jeza</image:title>
+    <image:caption>Explora Sochi con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Rusia/Vladivostok%20-%20Rusia.avif</image:loc>
+    <image:title>Viajes a Vladivostok | Grupo Jeza</image:title>
+    <image:caption>Descubre Vladivostok con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+</url>
+
   
 </urlset>
