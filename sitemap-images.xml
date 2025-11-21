@@ -525,5 +525,44 @@
 
 </url>
 
+<url>
+  <loc>https://grupojeza.com/paquetes/peru</loc>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Per%C3%BA/Arequipa%20-%20Per%C3%BA.avif</image:loc>
+    <image:title>Paquetes de Viaje a Arequipa | Grupo Jeza</image:title>
+    <image:caption>Descubre Arequipa con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Per%C3%BA/Islas%20Ballestas%20-%20Per%C3%BA.avif</image:loc>
+    <image:title>Viajes a las Islas Ballestas | Grupo Jeza</image:title>
+    <image:caption>Explora las Islas Ballestas con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Per%C3%BA/Lima%20-%20Per%C3%BA.avif</image:loc>
+    <image:title>Paquetes de Viaje a Lima | Grupo Jeza</image:title>
+    <image:caption>Vive Lima con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Per%C3%BA/Machu%20Picchu%20-%20Per%C3%BA.avif</image:loc>
+    <image:title>Viajes a Machu Picchu | Grupo Jeza</image:title>
+    <image:caption>Descubre Machu Picchu con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Per%C3%BA/Puno%20-%20Per%C3%BA.avif</image:loc>
+    <image:title>Paquetes de Viaje a Puno | Grupo Jeza</image:title>
+    <image:caption>Explora Puno con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+</url>
+
   
 </urlset>
