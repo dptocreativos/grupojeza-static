@@ -613,5 +613,60 @@
 
 </url>
 
+<!-- VENEZUELA -->
+<url>
+  <loc>https://grupojeza.com/paquetes/venezuela</loc>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Salto%20%C3%81ngel%20-%20Venezuela.avif</image:loc>
+    <image:title>Paquetes de Viaje a Canaima y Salto Ángel | Grupo Jeza</image:title>
+    <image:caption>Vive la magia de Canaima y el majestuoso Salto Ángel con Grupo Jeza, los expertos en viajes a Venezuela.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Isla%20de%20Coche%20-%20Margarita.avif</image:loc>
+    <image:title>Viajes a Isla de Coche | Grupo Jeza</image:title>
+    <image:caption>Explora Isla de Coche, un paraíso caribeño cerca de Margarita, con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Isla%20Cubagua%20-%20Venezuela.avif</image:loc>
+    <image:title>Paquetes de Viaje a Isla Cubagua | Grupo Jeza</image:title>
+    <image:caption>Descubre Isla Cubagua y su historia con los mejores precios de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Isla%20Margarita%20-%20Venezuela.avif</image:loc>
+    <image:title>Viajes a Isla Margarita - El Paraíso Caribeño de Venezuela | Grupo Jeza</image:title>
+    <image:caption>Disfruta Isla Margarita, el destino más top de Venezuela, con playas paradisíacas, resorts de lujo y aventuras únicas. Viaja con Grupo Jeza y vive la experiencia completa.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Los%20Roques%20-%20Venezuela.avif</image:loc>
+    <image:title>Paquetes de Viaje a Los Roques | Grupo Jeza</image:title>
+    <image:caption>Explora Los Roques, un paraíso natural de Venezuela, con los mejores precios y paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Morrocoy.avif</image:loc>
+    <image:title>Viajes a Morrocoy | Grupo Jeza</image:title>
+    <image:caption>Descubre Morrocoy y sus playas de ensueño con los mejores paquetes de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+  <image:image>
+    <image:loc>https://static.grupojeza.com/destinos/Venezuela/Paraguan%C3%A1%20-%20Venezuela.avif</image:loc>
+    <image:title>Paquetes de Viaje a Paraguaná | Grupo Jeza</image:title>
+    <image:caption>Explora la Península de Paraguaná con los mejores precios y experiencias de viaje de Grupo Jeza.</image:caption>
+    <image:license>https://grupojeza.com</image:license>
+  </image:image>
+
+</url>
+
   
 </urlset>
